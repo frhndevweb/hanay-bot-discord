@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://github.com/frhndevweb/hanay-bot-discord/src/hanay.png" alt="Multi-Role Guard Logo" width="150"/>
 </p>
@@ -160,5 +159,3 @@ Bot ini dibuat & di-maintain oleh [frhndevweb.my.id](https://frhndevweb.my.id)
 ---
 
 > **Keep your server safe & clean!** 🔒✨
-
-```
