@@ -2,8 +2,10 @@
 // ---------------
 // IMPORT & SETUP
 import { Client, GatewayIntentBits, REST, Routes, SlashCommandBuilder, EmbedBuilder, PermissionFlagsBits } from 'discord.js';
-import config from './config.json' assert { type: "json" };
 import fs from 'fs';
+import { createRequire } from 'node:module';
+const require = createRequire(import.meta.url);
+const config = require('./config.json');
 
 const client = new Client({
   intents: [
