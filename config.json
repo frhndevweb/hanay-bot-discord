@@ -1,0 +1,11 @@
+{
+  "TOKEN": "ISI_TOKEN_BOT_MU",
+  "CLIENT_ID": "ISI_CLIENT_ID",
+  "GUILD_ID": "ISI_GUILD_ID",
+  "OWNER_ID": "ISI_OWNER_ID",
+  "ADMIN_ROLE_ID": "ISI_ROLE_ADMIN",
+  "LOG_CHANNEL_ID": "ISI_CHANNEL_LOG",
+  "AUTOROLE_ID": "ISI_ROLE_AUTOROLE",
+  "WELCOME": "Selamat datang {user} di server!",
+  "GOODBYE": "Selamat jalan {user}, semoga kembali!"
+}
