@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/frhndevweb/hanay-bot-discord/src/hanay.png" alt="Multi-Role Guard Logo" width="150"/>
+  <img src="https://github.com/frhndevweb/hanay-bot-discord/blob/master/src/hanay.png" alt="Multi-Role Guard Logo" width="150"/>
 </p>
 
 <h1 align="center">🤖 Multi-Role Guard Bot</h1>
