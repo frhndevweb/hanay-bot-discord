@@ -148,7 +148,7 @@ Bot ini dibuat & di-maintain oleh [frhndevweb.my.id](https://frhndevweb.my.id)
 ## 🫡 Credits
 
 > Powered by [discord.js](https://discord.js.org)
-> Dibangun manual bareng ChatGPT! 🚀
+> Dibangun manual
 
 ---
 
